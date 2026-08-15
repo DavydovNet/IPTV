@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Мария FM" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/maria_fm.png",Мария FM
 http://mariafm.ru:8000/maria-fm.mp3
+#EXTINF:-1 tvg-name="Радио Мегаполис" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_megapolis.png",Радио Мегаполис
+http://online.radio-megapolis.ru:8000/megapolis
