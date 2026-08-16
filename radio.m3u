@@ -5,3 +5,27 @@ http://mariafm.ru:8000/maria-fm.mp3
 http://online.radio-megapolis.ru:8000/megapolis
 #EXTINF:-1 tvg-name="Радио Monte Carlo",Радио Monte Carlo
 https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8
+#EXTINF:-1,Вести FM
+http://cast-vestifm.gtrk-vyatka.ru
+#EXTINF:-1,Комсомольская правда
+https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+#EXTINF:-1,Маяк
+http://cast-mayak.gtrk-vyatka.ru
+#EXTINF:-1,Наше радио
+https://nashe1.hostingradio.ru:80/nashe-128.mp3
+#EXTINF:-1,Радио России
+http://cast-rossiya.gtrk-vyatka.ru
+#EXTINF:-1,Радио Шок
+https://spb.radioshock.ru/opus128
+#EXTINF:-1,Радио NRG
+https://hls-01-gpm.hostingradio.ru/energyfm833/playlist.m3u8
+#EXTINF:-1,Jazz
+https://nashe1.hostingradio.ru:80/jazz-128.mp3
+#EXTINF:-1,Maximum
+https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Rock’n’Roll FM
+https://a6.radioheart.ru:9046/RH1972
+#EXTINF:-1,Ultra
+https://nashe1.hostingradio.ru:80/ultra-128.mp3
+#EXTINF:-1,Rock FM
+https://nashe1.hostingradio.ru:80/rock-128.mp3
