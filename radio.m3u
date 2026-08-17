@@ -5,7 +5,7 @@ http://cast-vestifm.gtrk-vyatka.ru
 https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1 tvg-name="Мария FM" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/maria_fm.png",Мария FM
 http://mariafm.ru:8000/maria-fm.mp3
-#EXTINF:-1,Маяк
+#EXTINF:-1 tvg-name="Маяк" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/mayak.png",Маяк
 http://cast-mayak.gtrk-vyatka.ru
 #EXTINF:-1,Наше радио
 https://nashe1.hostingradio.ru:80/nashe-128.mp3
