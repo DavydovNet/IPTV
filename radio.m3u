@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Вести FM
+#EXTINF:-1 tvg-name="Вести FM" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/vesti_fm.png",Вести FM
 http://cast-vestifm.gtrk-vyatka.ru
 #EXTINF:-1,Комсомольская правда
 https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
