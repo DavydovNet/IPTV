@@ -15,7 +15,7 @@ http://online.radio-megapolis.ru:8000/megapolis
 http://cast-rossiya.gtrk-vyatka.ru
 #EXTINF:-1,Радио Шок
 https://spb.radioshock.ru/opus128
-#EXTINF:-1,Радио NRG
+#EXTINF:-1 tvg-name="Радио ЭНЕРДЖИ" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_nrg.png",Радио ЭНЕРДЖИ
 https://hls-01-gpm.hostingradio.ru/energyfm833/playlist.m3u8
 #EXTINF:-1,Jazz
 https://nashe1.hostingradio.ru:80/jazz-128.mp3
