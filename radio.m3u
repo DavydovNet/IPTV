@@ -11,7 +11,7 @@ https://nashe1.hostingradio.ru:80/nashe-128.mp3
 https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
 #EXTINF:-1 tvg-name="Радио Мегаполис" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_megapolis.png",Радио Мегаполис
 http://online.radio-megapolis.ru:8000/megapolis
-#EXTINF:-1,Радио России
+#EXTINF:-1 tvg-name="Радио России" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_rossii.png",Радио России
 http://cast-rossiya.gtrk-vyatka.ru
 #EXTINF:-1,Радио Шок
 https://spb.radioshock.ru/opus128
