@@ -17,6 +17,8 @@ http://cast-rossiya.gtrk-vyatka.ru
 https://spb.radioshock.ru/opus128
 #EXTINF:-1 tvg-name="Радио ЭНЕРДЖИ" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_nrg.png",Радио ЭНЕРДЖИ
 https://hls-01-gpm.hostingradio.ru/energyfm833/playlist.m3u8
+#EXTINF:-1 tvg-name="Юмор FM" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/yumor_fm.png",Юмор FM
+https://hls-01-gpm.hostingradio.ru/humorfm8332/playlist.m3u8
 #EXTINF:-1,Maximum
 https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 tvg-name="Radio Jazz" tvg-logo="https://raw.githubusercontent.com/DavydovNet/IPTV/refs/heads/main/logo/radio_jazz.png",Radio Jazz
